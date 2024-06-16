@@ -20,7 +20,7 @@ to see all the users that exist in the table `user` in the Postgres
 
 ![16 06 2024_19 07 51_REC](https://github.com/dzois-ar/Node_postgres_using_docker/assets/80916754/44520ce1-b72e-498f-8ec4-1b81909f5a66)
 
-##URL : http://localhost:8081/users
+## URL : http://localhost:8081/users
 
 
 ![16 06 2024_19 07 51_REC](https://github.com/dzois-ar/Node_postgres_using_docker/assets/80916754/44520ce1-b72e-498f-8ec4-1b81909f5a66)
