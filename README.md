@@ -2,4 +2,4 @@
  Connect a Nodejs app to Postgres using Docker
 
 # Pull this repositories
-Running ** docker-compose up --build **
+Running **docker-compose up --build**
