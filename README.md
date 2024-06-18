@@ -5,6 +5,7 @@ You must have a version of Docker installed
 
 ## Pull this repositories
 Running **docker-compose up --build**
+is a command used in Docker to build and start all the services defined in a docker-compose.yml 
 
 ## Open Postman
 
