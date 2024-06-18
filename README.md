@@ -23,12 +23,6 @@ Retrieve QR code information along with user details
 
 ![16 06 2024_19 07 51_REC](https://github.com/dzois-ar/Node_postgres_using_docker/assets/80916754/44520ce1-b72e-498f-8ec4-1b81909f5a66)
 
-### URL : http://localhost:8081/getUsers
-
-Retrieve all users from the `users` table
-
-![16 06 2024_19 07 51_REC](https://github.com/dzois-ar/Node_postgres_using_docker/assets/80916754/44520ce1-b72e-498f-8ec4-1b81909f5a66)
-
 
 
 ### URL : http://localhost:8081/users
